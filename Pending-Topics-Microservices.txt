@@ -1,0 +1,5 @@
+1) Bulk Ahead in Fault Tolerance 
+2) SAGA- 
+3) API gateway - APiiegei
+4) Monitoring - SPlunk 
+5) 
