@@ -3,3 +3,12 @@
 3) API gateway - APiiegei
 4) Monitoring - SPlunk 
 5) 
+
+
+
+t.wait();
+
+Obejct - lock - thread 
+
+
+1) countdownlatch  and cyclic barrier 
