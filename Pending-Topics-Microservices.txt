@@ -1,14 +1,10 @@
 1) Bulk Ahead in Fault Tolerance 
 2) SAGA- 
-3) API gateway - APiiegei
+3) API gateway - APiegei
 4) Monitoring - SPlunk 
-5) 
+5) Graphana /Kabana
+6) CQRS desin pattern 
+7) Circuit Breaker 
 
 
 
-t.wait();
-
-Obejct - lock - thread 
-
-
-1) countdownlatch  and cyclic barrier 
