@@ -7,4 +7,7 @@
 7) Circuit Breaker 
 
 
+Pending Task in Streams:
 
+1) Optional classes 
+2) Exception Handling in streams
